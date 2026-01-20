@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Energy_assets/logo.png" alt="Energy Club OUTR Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4c975bde-31a1-4c71-9b5a-e71733c4e8fa" alt="Energy Club OUTR Logo" width="200"/>
 </p>
 
 <h1 align="center">⚡ Energy Club OUTR</h1>
