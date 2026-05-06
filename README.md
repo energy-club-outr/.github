@@ -16,6 +16,40 @@ Energy Club OUTR aims to bridge the gap between **theoretical knowledge and real
 We encourage students to build, experiment, research, and innovate in domains related to **power, energy, and smart systems**.
 
 ---
+## 🔬 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href=https://github.com/energy-club-outr/100_Days_100_IoT_Projects">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=energy-club-outr&repo=100_Days_100_IoT_Projects&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="100_Days_100_IoT_Projects"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/energy-club-outr/30-Days-30-Wokwi-Projects">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=energy-club-outr&repo=30-Days-30-Wokwi-Projects&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="30-Days-30-Wokwi-Projects"/>
+      </a>
+    </td>
+  </tr>
+</table>
+ 
+## 🔬 Resources For Students
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href=https://github.com/energy-club-outr/Digital_Signal_Processing_Lab_Codes">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=energy-club-outr&repo=Digital_Signal_Processing_Lab_Codes&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Digital_Signal_Processing_Lab_Codes"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/energy-club-outr/MPMC_LAB">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=energy-club-outr&repo=MPMC_LAB&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="MPMC_LAB"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🎯 Our Focus Areas
 - 🔌 Renewable & Sustainable Energy Systems  
